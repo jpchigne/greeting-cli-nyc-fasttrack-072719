@@ -1,4 +1,4 @@
-learn spec/02_cli_spec.rblearn spec/02_cli_spec.rb# Greeting Cli
+# Greeting Cli
 
 ## Objectives
 
